@@ -12,7 +12,7 @@ In this project, we will develop a predictive model on housing sale price using 
 
 The dataset that we are using are part of housing sales record between 2006 and 2010 in Ames, Iowa from the Assessor’s Office. Originally contained 113 variables describing 3970 property sales, the data were used in calculation of home values for the city’s assessment process. It was then cleaned and refined by Dean de Cock from Truman State University, down to only 80 variables focusing on the quality and quantity of many physical attributes of the property [(Dean de Cock, 2011)](http://jse.amstat.org/v19n3/decock.pdf).
 
-Due to the extensive number of attributes of more than 80, no data dictionary is given for the current project. For the full list, you may refer to [this link](https://s3.amazonaws.com/dq-content/307/data_description.txt).
+Due to the extensive number of attributes of more than 80, no data dictionary is given for the current project. For the full list, you may refer to [this link](https://github.com/vincenttan91/Ames_Housing_Prediction/blob/master/data_dictionary.txt).
 
 ---
 
